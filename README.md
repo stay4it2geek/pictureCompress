@@ -1,7 +1,7 @@
 
 # pictureCompress  
  #####  基于photopiack和鲁班压缩二次优化  ,站在巨人的肩膀上,有种登高望远的感觉,感谢上述两位作者的无私奉献,在此基础上我添加了一些新的功能,跟大家分享出来,一起玩耍
-
+ ##### 喜欢原厂的可以   [photopick传送门](https://github.com/donglua/PhotoPicker)   [luban传送门](https://github.com/Curzibn/Luban)
 ---
 
 # Usage
