@@ -1,11 +1,6 @@
 
 # pictureCompress  
  #####  基于photopiack和鲁班压缩二次优化  ,照在巨人的肩膀上 添加了一些新的功能,跟大家分享出来,一起玩耍
-<p style="float:left;">
- <a href="https://play.google.com/store/apps/details?id=me.iwf.PhotoPickerDemo&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
- <img HEIGHT="80" WIDTH="270" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" />
- </a>
-</p>
 
 ---
 
